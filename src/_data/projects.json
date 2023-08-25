@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "UFD",
+    "desciption": "ur-fav-downloader, an app where you can download videos from popular platforms",
+    "tools": ["Next.js", "MUI", "youtube-dl", "ffmpeg"],
+    "repo": "",
+    "url": ""
+  },
+  {
+    "id": "2",
+    "title": "FutureMe",
+    "desciption": "an app where a user can send a message to their future self in a particular date",
+    "tools": [
+      "Next.js",
+      "nodeJS",
+      "MongoDB",
+      "mongoose",
+      "nodemailer",
+      "Bull",
+      "Redis"
+    ],
+    "repo": "",
+    "url": ""
+  },
+  {
+    "id": "3",
+    "title": "Toder",
+    "desciption": "All-In-one task management system that makes organizing projects with related tasks much easier",
+    "tools": ["ReactJS", "TypeScript", "Vite", "pouchDB", "React-dnd"],
+    "repo": "",
+    "url": ""
+  },
+  {
+    "id": "4",
+    "title": "linkedin-dl",
+    "desciption": "command line tool to download coursed from linkedin-learning platform",
+    "tools": ["Next.js", "MUI", "youtube-dl", "ffmpeg"],
+    "repo": "https://github.com/AbdoElsaed/linkedin-dl",
+    "url": ""
+  },
+  {
+    "id": "5",
+    "title": "Nagda",
+    "desciption": "..."
+  }
+]
