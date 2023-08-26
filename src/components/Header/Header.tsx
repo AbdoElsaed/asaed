@@ -24,7 +24,11 @@ export const Header = () => {
           Terminal Mode
         </Link>
         <span className={styles.divider}>|</span>
-        <Link className={styles.link} href="/resume">
+        <Link
+          className={styles.link}
+          target="_blank"
+          href="https://drive.google.com/drive/u/0/my-drive"
+        >
           Resume
         </Link>
       </div>
