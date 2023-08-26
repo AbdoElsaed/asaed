@@ -27,7 +27,7 @@ export const Header = () => {
         <Link
           className={styles.link}
           target="_blank"
-          href="https://drive.google.com/drive/u/0/my-drive"
+          href={process.env.NEXT_PUBLIC_RESUME_LINK as string}
         >
           Resume
         </Link>
