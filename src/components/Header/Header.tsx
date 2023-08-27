@@ -20,7 +20,7 @@ export const Header = () => {
           Blog
         </Link>
         <span className={styles.divider}>|</span>
-        <Link className={styles.link} href="#">
+        <Link className={styles.link} href="/terminal">
           Terminal Mode
         </Link>
         <span className={styles.divider}>|</span>
