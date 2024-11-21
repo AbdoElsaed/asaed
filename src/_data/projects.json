@@ -43,5 +43,13 @@
     "id": "5",
     "title": "Nagda",
     "desciption": "..."
+  },
+  {
+    "id": "6",
+    "title": "Navhub",
+    "desciption": "NavHub elevates delivery management through advanced telematics, offering real-time tracking and control over logistics. Our platform enhances operational efficiency and customer satisfaction, allowing businesses to monitor shipments from start to finish with precision. Experience transformative delivery tracking with NavHub, where every route is optimized for success.",
+    "tools": ["Next.js"],
+    "repo": "",
+    "url": ""
   }
 ]
